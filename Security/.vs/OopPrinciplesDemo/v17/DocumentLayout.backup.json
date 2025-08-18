@@ -30,73 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISecurityProvider.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\ISecurityProvider.cs",
-              "RelativeDocumentMoniker": "SecurityProviders\\ISecurityProvider.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\ISecurityProvider.cs",
-              "RelativeToolTip": "SecurityProviders\\ISecurityProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:10:59.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OnlineAccountSecurityProvider.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\OnlineAccountSecurityProvider.cs",
-              "RelativeDocumentMoniker": "SecurityProviders\\OnlineAccountSecurityProvider.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\OnlineAccountSecurityProvider.cs",
-              "RelativeToolTip": "SecurityProviders\\OnlineAccountSecurityProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:18:58.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Program.cs",
-              "RelativeDocumentMoniker": "Controller\\Program.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Program.cs",
-              "RelativeToolTip": "Controller\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:08:23.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Controller",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Controller.csproj",
-              "RelativeDocumentMoniker": "Controller\\Controller.csproj",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Controller.csproj",
-              "RelativeToolTip": "Controller\\Controller.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-13T06:08:15.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SecurityProviders",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\SecurityProviders.csproj",
-              "RelativeDocumentMoniker": "SecurityProviders\\SecurityProviders.csproj",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\SecurityProviders.csproj",
-              "RelativeToolTip": "SecurityProviders\\SecurityProviders.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-13T06:07:00.903Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -136,6 +71,67 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISecurityProvider.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\ISecurityProvider.cs",
+              "RelativeDocumentMoniker": "SecurityProviders\\ISecurityProvider.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\ISecurityProvider.cs",
+              "RelativeToolTip": "SecurityProviders\\ISecurityProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:10:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineAccountSecurityProvider.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\OnlineAccountSecurityProvider.cs",
+              "RelativeDocumentMoniker": "SecurityProviders\\OnlineAccountSecurityProvider.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\OnlineAccountSecurityProvider.cs",
+              "RelativeToolTip": "SecurityProviders\\OnlineAccountSecurityProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:18:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Program.cs",
+              "RelativeDocumentMoniker": "Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Program.cs",
+              "RelativeToolTip": "Controller\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:08:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.csproj",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Controller.csproj",
+              "RelativeDocumentMoniker": "Controller\\Controller.csproj",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\Controller\\Controller.csproj",
+              "RelativeToolTip": "Controller\\Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T06:08:15.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityProviders.csproj",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\SecurityProviders.csproj",
+              "RelativeDocumentMoniker": "SecurityProviders\\SecurityProviders.csproj",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Security\\SecurityProviders\\SecurityProviders.csproj",
+              "RelativeToolTip": "SecurityProviders\\SecurityProviders.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T06:07:00.903Z"
             }
           ]
         }
