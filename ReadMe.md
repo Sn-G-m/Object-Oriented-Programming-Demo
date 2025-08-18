@@ -1,4 +1,4 @@
-# Object Oriented Principles Demo
+# Object Oriented Programming Demo
 
 ## Directory Structure
 
