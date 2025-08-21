@@ -12,6 +12,7 @@ public class Program {
         ISecurityProvider accountSecurity = new AccountSecurityProvider();
         ISecurityProvider antivirusSecurity = new AntivirusSecurityProvider();
         ISecurityProvider extendedAntivirusSecurity = new ExtendedAntivirusSecurityProvider();
+        ISecurityProvider newHarddiskSecurity = new NewHarddiskSecurityProvider();
 
         // Create a list of security providers.
         List<ISecurityProvider> securityProviders = new ArrayList<>();
@@ -20,6 +21,7 @@ public class Program {
         securityProviders.add(accountSecurity);
         securityProviders.add(antivirusSecurity);
         securityProviders.add(extendedAntivirusSecurity);
+        securityProviders.add(newHarddiskSecurity);
 
         // Iterate through each security provider and perform a scan.
         for (ISecurityProvider provider : securityProviders) {

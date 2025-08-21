@@ -54,6 +54,10 @@ Extended scan for viruses...
 Scanning for viruses...
 Extended Antivirus Security Provider scan completed successfully.
 
+Using Hard-disk Security Provider
+Scanning hard-disk...
+Hard-disk Security Provider scan completed successfully.
+
 
 Process finished with exit code 0
 ```
