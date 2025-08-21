@@ -1,5 +1,8 @@
+securityproviders\HarddiskSecurityProvider.class
 securityproviders\OnlineAccountSecurityProvider.class
 securityproviders\DeviceSecurity.class
+securityproviders\ExtendedAntivirusSecurityProvider.class
 securityproviders\ISecurityProvider.class
 securityproviders\AccountSecurityProvider.class
 securityproviders\AntivirusSecurityProvider.class
+securityproviders\NewHarddiskSecurityProvider.class
