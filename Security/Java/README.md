@@ -2,6 +2,7 @@
 
 This is a 1:1 Java port of the .NET solution in `.NET/`, using a Maven multi-module layout.
 
+**All credits to the starter files for this project goes to https://github.com/chittur**
 - Modules:
   - `security-providers` (library with providers)
   - `controller` (console app)
@@ -47,6 +48,14 @@ Account Security Provider scan completed successfully.
 Using Antivirus Security Provider
 Scanning for viruses...
 Antivirus Security Provider scan completed successfully.
+
+Using Extended Antivirus Security Provider
+Extended scan for viruses...
+Scanning for viruses...
+Extended Antivirus Security Provider scan completed successfully.
+
+
+Process finished with exit code 0
 ```
 
 Tip: If Maven reports cached plugin resolution errors, retry with:
