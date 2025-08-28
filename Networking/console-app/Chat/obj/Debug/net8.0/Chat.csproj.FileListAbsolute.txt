@@ -1,0 +1,16 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.csproj.AssemblyReference.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.sourcelink.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\bin\Debug\net8.0\Chat.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\bin\Debug\net8.0\Chat.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\bin\Debug\net8.0\Chat.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\bin\Debug\net8.0\Networking.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\bin\Debug\net8.0\Networking.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.csproj.Up2Date
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\refint\Chat.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\Chat.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\console-app\Chat\obj\Debug\net8.0\ref\Chat.dll
