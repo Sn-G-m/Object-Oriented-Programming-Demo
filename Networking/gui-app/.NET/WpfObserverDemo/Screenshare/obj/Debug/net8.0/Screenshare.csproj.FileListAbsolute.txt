@@ -1,0 +1,16 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\bin\Debug\net8.0\Screenshare.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\bin\Debug\net8.0\Screenshare.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\bin\Debug\net8.0\Screenshare.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\bin\Debug\net8.0\Networking.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\bin\Debug\net8.0\Networking.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.csproj.AssemblyReference.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.sourcelink.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screensh.75F9272A.Up2Date
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\refint\Screenshare.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\Screenshare.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Screenshare\obj\Debug\net8.0\ref\Screenshare.dll

@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfObserverDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfObserverDemo"
+        mc:Ignorable="d"
+        Title="Communicator-Observer-Demo" Height="600" Width="800">
+    <Grid>
+        <StackPanel  HorizontalAlignment="Left" VerticalAlignment="Center" Width="400">
+            <TextBlock Text="Enter Listener ID" FontSize="20"/>
+            <TextBox x:Name="ID" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
+            <TextBlock Text="Enter Message" FontSize="20"/>
+            <TextBox x:Name="msgSent" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
+            <Button Content="Send" Background="LightGray" FontSize="20" Width="50"  Margin="10" Click="Send_Click"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Width="400">
+            <TextBlock Text="Last Receiver" FontSize="20" />
+            <TextBox x:Name="receiver" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5" IsReadOnly="True"/>
+            <TextBlock Text="Message Received" FontSize="20"/>
+            <TextBox x:Name="msgReceived" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5" IsReadOnly="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

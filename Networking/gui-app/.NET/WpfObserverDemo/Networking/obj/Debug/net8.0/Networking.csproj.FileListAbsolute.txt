@@ -1,0 +1,12 @@
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\bin\Debug\net8.0\Networking.deps.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\bin\Debug\net8.0\Networking.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\bin\Debug\net8.0\Networking.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.AssemblyInfoInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.AssemblyInfo.cs
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.csproj.CoreCompileInputs.cache
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.sourcelink.json
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\refint\Networking.dll
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\Networking.pdb
+C:\Users\soory\Documents\IITPkd\Semester 7\SWE\OopPrinciplesDemo\OopPrinciplesDemo.v2\Networking\gui-app\.NET\WpfObserverDemo\Networking\obj\Debug\net8.0\ref\Networking.dll
