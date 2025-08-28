@@ -8,7 +8,8 @@ namespace Executive
     {
         static void Main(string[] args)
         {
-            ICommunicator communicator = new Communicator();
+            CommunicationFactory communicationFactory = new CommunicationFactory();
+            ICommunicator communicator = communicationFactory.GetCommunicator();
             communicator.SendMessage("Test Message", "127.0.0.1");
             Console.WriteLine("Message sent successfully.");
 
