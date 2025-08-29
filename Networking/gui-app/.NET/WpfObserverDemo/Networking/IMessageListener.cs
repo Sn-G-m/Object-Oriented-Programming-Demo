@@ -9,5 +9,6 @@ namespace Networking
     public interface IMessageListener
     {
         void OnMessageReceived(string message);
+
     }
 }
