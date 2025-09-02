@@ -18,8 +18,8 @@ namespace Networking
 
         private void OnChanged(object sender, FileSystemEventArgs e)
         {
-            //string message = File.ReadLines(e.FullPath).Last();
-            string message = File.ReadAllText(e.FullPath);
+            string message = File.ReadLines(e.FullPath).Last();
+            //string message = File.ReadAllText(e.FullPath);
             string[] slicedMessage = message.Split(':');
             if (_lookUpTable.Count > 0 && _lookUpTable.ContainsKey(slicedMessage[0]))
             {
@@ -31,12 +31,12 @@ namespace Networking
 
         public void SendMessage(string message, string ip)
         {
-            File.WriteAllText(".\\in.txt", message);
+            File.WriteAllText($".\\{ip}.txt", message);
         }
 
         public void Subscribe(string id, IMessageListener listener)
         {
-            _lookUpTable.Add(id,  listener);
+            _lookUpTable.Add(id, listener);
         }
     }
 }

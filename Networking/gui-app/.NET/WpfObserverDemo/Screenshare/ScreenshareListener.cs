@@ -6,7 +6,7 @@ namespace Screenshare
     {
         public void OnMessageReceived(string message)
         {
-            Console.WriteLine($"Message Received : {message} [Receiver: SCSR]")
+            Console.WriteLine($"Message Received : {message} [Receiver: SCSR]");
         }
     }
 }

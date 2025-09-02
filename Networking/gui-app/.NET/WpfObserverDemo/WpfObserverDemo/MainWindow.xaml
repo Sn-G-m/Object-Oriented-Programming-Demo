@@ -15,10 +15,10 @@
             <Button Content="Send" Background="LightGray" FontSize="20" Width="50"  Margin="10" Click="Send_Click"/>
         </StackPanel>
         <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Width="400">
-            <TextBlock Text="Last Receiver" FontSize="20" />
-            <TextBox x:Name="receiver" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5" IsReadOnly="True"/>
+            <TextBlock Name="receiverTextbox" Text="Last Receiver" FontSize="20" />
+            <TextBox x:Name="receiver" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
             <TextBlock Text="Message Received" FontSize="20"/>
-            <TextBox x:Name="msgReceived" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5" IsReadOnly="True"/>
+            <TextBox x:Name="msgReceived" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
         </StackPanel>
     </Grid>
 </Window>
