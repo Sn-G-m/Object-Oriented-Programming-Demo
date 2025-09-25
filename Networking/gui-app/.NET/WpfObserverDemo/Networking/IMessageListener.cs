@@ -8,6 +8,7 @@ namespace Networking
 {
     public interface IMessageListener
     {
+        event OnChatMessageReceived;
         void OnMessageReceived(string message);
 
     }

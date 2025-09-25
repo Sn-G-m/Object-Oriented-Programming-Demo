@@ -12,6 +12,7 @@
     <ProjectReference Include="..\Chat\Chat.csproj" />
     <ProjectReference Include="..\Networking\Networking.csproj" />
     <ProjectReference Include="..\Screenshare\Screenshare.csproj" />
+    <ProjectReference Include="..\ViewModel\ViewModel.csproj" />
   </ItemGroup>
 
 </Project>

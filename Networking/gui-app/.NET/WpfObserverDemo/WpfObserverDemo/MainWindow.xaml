@@ -16,9 +16,9 @@
         </StackPanel>
         <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Width="400">
             <TextBlock Name="receiverTextbox" Text="Last Receiver" FontSize="20" />
-            <TextBox x:Name="receiver" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
+            <TextBlock Margin="0,10,0,10" Text="{Binding LatestMessage}" Foreground="Black" Height="26" Width="387"/>
             <TextBlock Text="Message Received" FontSize="20"/>
-            <TextBox x:Name="msgReceived" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
+            <TextBlock Margin="0,10,0,10" Text="{Binding LatestMessage}" Foreground="Black" Height="26" Width="387"/>
         </StackPanel>
     </Grid>
 </Window>

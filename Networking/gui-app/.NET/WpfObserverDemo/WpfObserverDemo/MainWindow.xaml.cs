@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
+using ViewModel;
 
 namespace WpfObserverDemo
 {
@@ -27,7 +28,7 @@ namespace WpfObserverDemo
         public MainWindow()
         {
             InitializeComponent();
-            
+            DataContext = new MainWindowViewModel();
 
             IMessageListener mainListener = new Listener();
             IMessageListener chatListener = new ChatListener();
@@ -37,16 +38,6 @@ namespace WpfObserverDemo
             communicator.Subscribe("SCSR", screenshareListener);
             communicator.Subscribe("UX", this);
 
-            chatListener.OnChatMessageReceived += delegate (string message)
-            {
-                Dispatcher.Invoke(() =>
-                {
-                    ReceivedMessage = message;
-                    OnPropertyChanged(nameof(ReceivedMessage));
-
-                }
-                );
-            };
         }
 
         private void Send_Click(object sender, RoutedEventArgs e)
@@ -62,11 +53,12 @@ namespace WpfObserverDemo
         {
             Dispatcher.Invoke(() =>
                 {
-                    receiver.Text = "UX";
-                    msgReceived.Text = message;
+                    //msgReceived.Text = message;
 
                 }
             );
+            //msgReceived.Text = message;
+
             Console.WriteLine("in console");
         }
     }

@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ViewModel/1.0.0": {
+        "dependencies": {
+          "Chat": "1.0.0",
+          "Networking": "1.0.0",
+          "Screenshare": "1.0.0"
+        },
+        "runtime": {
+          "ViewModel.dll": {}
+        }
+      },
+      "Chat/1.0.0": {
+        "dependencies": {
+          "Networking": "1.0.0"
+        },
+        "runtime": {
+          "Chat.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Networking/1.0.0": {
+        "runtime": {
+          "Networking.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Screenshare/1.0.0": {
+        "dependencies": {
+          "Networking": "1.0.0"
+        },
+        "runtime": {
+          "Screenshare.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Networking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Screenshare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
