@@ -34,18 +34,18 @@ namespace ViewModel
             ICommunicator _communicator = _communicationFactory.GetCommunicator();
 
             IMessageListener chatListener = new ChatListener();
-            //IMessageListener screenshareListener = new ScreenshareListener();
+            IMessageListener screenshareListener = new ScreenshareListener();
             _communicator.Subscribe("CHAT", chatListener);
-            //_communicator.Subscribe("SCSR", screenshareListener);
-            chatListener.OnChatMessageReceived += delegate (string message)
-            {
-                // UI element update needs to happen on the UI thread, and this callback is
-                // likely run on a worker thread. However we do not need to explicitly
-                // dispatch to the UI thread here because OnPropertyChanged event is
-                // automatically marshaled to the UI thread.
-                ReceivedMessage = message;
-                OnPropertyChanged(nameof(ReceivedMessage));
-            };
+            _communicator.Subscribe("SCSR", screenshareListener);
+            //chatListener.OnChatMessageReceived += delegate (string message)
+            //{
+            //    // UI element update needs to happen on the UI thread, and this callback is
+            //    // likely run on a worker thread. However we do not need to explicitly
+            //    // dispatch to the UI thread here because OnPropertyChanged event is
+            //    // automatically marshaled to the UI thread.
+            //    ReceivedMessage = message;
+            //    OnPropertyChanged(nameof(ReceivedMessage));
+            //};
 
             _communicator.Subscribe("MVVM" ,this);
         }

@@ -4,6 +4,7 @@ namespace Networking
     public class Communicator : ICommunicator
     {
         FileSystemWatcher _watcher;
+        FileSystemWatcher _watcherImage;
         Dictionary<string, IMessageListener> _lookUpTable = new();
         
         public Communicator()
@@ -14,6 +15,19 @@ namespace Networking
             _watcher.NotifyFilter = NotifyFilters.LastWrite;
             _watcher.EnableRaisingEvents = true;
             _watcher.Changed += OnChanged;
+
+            // Extra watcher for image
+            _watcherImage = new FileSystemWatcher();
+            _watcherImage.Path = ".\\";
+            _watcherImage.Filter = "in.png";
+            _watcherImage.NotifyFilter = NotifyFilters.LastWrite;
+            _watcherImage.EnableRaisingEvents = true;
+            _watcherImage.Changed += OnChangedImage;
+        }
+
+        private void OnChangedImage(object sender, FileSystemEventArgs e)
+        {
+
         }
 
         private void OnChanged(object sender, FileSystemEventArgs e)

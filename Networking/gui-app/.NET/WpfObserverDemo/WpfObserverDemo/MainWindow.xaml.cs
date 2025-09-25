@@ -20,7 +20,7 @@ namespace WpfObserverDemo
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window, IMessageListener
+    public partial class MainWindow : Window
     {
         static CommunicationFactory communicationFactory = new CommunicationFactory();
         ICommunicator communicator = communicationFactory.GetCommunicator();
@@ -30,13 +30,13 @@ namespace WpfObserverDemo
             InitializeComponent();
             DataContext = new MainWindowViewModel();
 
-            IMessageListener mainListener = new Listener();
-            IMessageListener chatListener = new ChatListener();
-            IMessageListener screenshareListener = new ScreenshareListener();
-            communicator.Subscribe("PRGM", mainListener);
-            communicator.Subscribe("CHAT", chatListener);
-            communicator.Subscribe("SCSR", screenshareListener);
-            communicator.Subscribe("UX", this);
+            //IMessageListener mainListener = new Listener();
+            //IMessageListener chatListener = new ChatListener();
+            //IMessageListener screenshareListener = new ScreenshareListener();
+            //communicator.Subscribe("PRGM", mainListener);
+            //communicator.Subscribe("CHAT", chatListener);
+            //communicator.Subscribe("SCSR", screenshareListener);
+            //communicator.Subscribe("UX", this);
 
         }
 
@@ -49,17 +49,17 @@ namespace WpfObserverDemo
             MessageBox.Show("Message sent successfully");
         }
 
-        public void OnMessageReceived(string message)
-        {
-            Dispatcher.Invoke(() =>
-                {
-                    //msgReceived.Text = message;
+        //public void OnMessageReceived(string message)
+        //{
+        //    Dispatcher.Invoke(() =>
+        //        {
+        //            //msgReceived.Text = message;
 
-                }
-            );
-            //msgReceived.Text = message;
+        //        }
+        //    );
+        //    //msgReceived.Text = message;
 
-            Console.WriteLine("in console");
-        }
+        //    Console.WriteLine("in console");
+        //}
     }
 }
