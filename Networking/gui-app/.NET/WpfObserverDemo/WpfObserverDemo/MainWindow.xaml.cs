@@ -29,6 +29,7 @@ namespace WpfObserverDemo
         {
             InitializeComponent();
             DataContext = new MainWindowViewModel();
+            //DataContext = new MainWindowViewModel();
 
             //IMessageListener mainListener = new Listener();
             //IMessageListener chatListener = new ChatListener();

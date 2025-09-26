@@ -16,6 +16,7 @@ namespace ViewModel
         {
             get
             {
+                Console.WriteLine("check 4 mvvm...");
                 return _latestMessage;
             }
 
@@ -23,8 +24,10 @@ namespace ViewModel
             {
                 if (value != _latestMessage)
                 {
+                    Console.WriteLine("check 5 m...");
                     _latestMessage = value;
                     OnPropertyChanged();
+                    Console.WriteLine("check 6 m...");
                 }
             }
         }
@@ -47,11 +50,13 @@ namespace ViewModel
             //    OnPropertyChanged(nameof(ReceivedMessage));
             //};
 
+            //Console.WriteLine("check 3...");
             _communicator.Subscribe("MVVM" ,this);
         }
 
         public void OnMessageReceived(string message)
         {
+            Console.WriteLine("check 2 m...");
             LatestMessage = message;
         }
 
@@ -59,6 +64,7 @@ namespace ViewModel
 
         private void OnPropertyChanged([CallerMemberName] string? propertyName = null)
         {
+            Console.WriteLine("check 1 m...");
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }

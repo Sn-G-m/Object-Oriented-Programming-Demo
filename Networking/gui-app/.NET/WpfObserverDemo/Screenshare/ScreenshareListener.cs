@@ -12,6 +12,7 @@ namespace Screenshare
         {
             get
             {
+                Console.WriteLine("check 6...");
                 return _latestMessage;
             }
 
@@ -20,13 +21,17 @@ namespace Screenshare
                 if (value != _latestMessage)
                 {
                     _latestMessage = value;
+                    Console.WriteLine("check 4...");
                     OnPropertyChanged();
+                    Console.WriteLine("check 5...");
                 }
             }
         }
+
         public void OnMessageReceived(string message)
         {
             Console.WriteLine($"Message Received : {message} [Receiver: SCSR]");
+            Console.WriteLine("check 3...");
             LatestMessage = message;
         }
 
@@ -34,7 +39,9 @@ namespace Screenshare
 
         private void OnPropertyChanged([CallerMemberName] string? propertyName = null)
         {
+            Console.WriteLine("check 1...");
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+            Console.WriteLine("check 2...");
         }
     }
 }
