@@ -7,18 +7,18 @@
         mc:Ignorable="d"
         Title="Communicator-Observer-Demo" Height="600" Width="800">
     <Grid>
-        <StackPanel  HorizontalAlignment="Left" VerticalAlignment="Center" Width="400">
+        <StackPanel  HorizontalAlignment="Left" VerticalAlignment="Center" Width="400" Height="181">
             <TextBlock Text="Enter Listener ID" FontSize="20"/>
             <TextBox x:Name="ID" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
             <TextBlock Text="Enter Message" FontSize="20"/>
             <TextBox x:Name="msgSent" FontSize="20" Width="350" HorizontalAlignment="Left" Margin="5"/>
             <Button Content="Send" Background="LightGray" FontSize="20" Width="50"  Margin="10" Click="Send_Click"/>
         </StackPanel>
-        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Width="400">
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Width="400" Height="181" Margin="400,0,0,0">
             <TextBlock Name="receiverTextbox" Text="Last Receiver" FontSize="20" />
-            <TextBlock Margin="0,10,0,10" Text="{Binding LatestMessage}" Foreground="Black" Height="26" Width="387"/>
+            <TextBlock Margin="0,10,0,10" Text="{Binding LatestReceiver}" Foreground="Black" Height="26" Width="387" FontSize="20"/>
             <TextBlock Text="Message Received" FontSize="20"/>
-            <TextBlock Margin="0,10,0,10" Text="{Binding LatestMessage}" Foreground="Black" Height="26" Width="387"/>
+            <TextBlock Margin="0,10,0,10" Text="{Binding LatestMessage}" FontSize="20" Foreground="Black" Height="26" Width="387"/>
         </StackPanel>
     </Grid>
 </Window>

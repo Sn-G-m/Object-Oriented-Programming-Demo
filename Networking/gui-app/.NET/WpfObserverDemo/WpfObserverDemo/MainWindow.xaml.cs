@@ -24,20 +24,11 @@ namespace WpfObserverDemo
     {
         static CommunicationFactory communicationFactory = new CommunicationFactory();
         ICommunicator communicator = communicationFactory.GetCommunicator();
-        private static Dispatcher Dispatcher => Application.Current?.Dispatcher ?? Dispatcher.CurrentDispatcher;
+
         public MainWindow()
         {
             InitializeComponent();
             DataContext = new MainWindowViewModel();
-            //DataContext = new MainWindowViewModel();
-
-            //IMessageListener mainListener = new Listener();
-            //IMessageListener chatListener = new ChatListener();
-            //IMessageListener screenshareListener = new ScreenshareListener();
-            //communicator.Subscribe("PRGM", mainListener);
-            //communicator.Subscribe("CHAT", chatListener);
-            //communicator.Subscribe("SCSR", screenshareListener);
-            //communicator.Subscribe("UX", this);
 
         }
 

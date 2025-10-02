@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\wpfobserverdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|solutionrelative:wpfobserverdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D39577-AEC3-48C3-B834-C1CEF0FFFA52}|Screenshare\\Screenshare.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D39577-AEC3-48C3-B834-C1CEF0FFFA52}|Screenshare\\Screenshare.csproj|solutionrelative:screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28F7C603-A560-4B3B-954E-EBE7240ACC2A}|Chat\\Chat.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28F7C603-A560-4B3B-954E-EBE7240ACC2A}|Chat\\Chat.csproj|solutionrelative:chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\wpfobserverdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|solutionrelative:wpfobserverdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8329F36E-1206-4060-A0BD-B0B448DE7F6A}|Networking\\Networking.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\networking\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8329F36E-1206-4060-A0BD-B0B448DE7F6A}|Networking\\Networking.csproj|solutionrelative:networking\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\wpfobserverdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59D46D58-277A-45DF-83ED-FD4142A605FC}|WpfObserverDemo\\WpfObserverDemo.csproj|solutionrelative:wpfobserverdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F7C603-A560-4B3B-954E-EBE7240ACC2A}|Chat\\Chat.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F7C603-A560-4B3B-954E-EBE7240ACC2A}|Chat\\Chat.csproj|solutionrelative:chat\\chatlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\viewmodel\\viewmodel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41E06401-AB6E-4B77-9536-2D51A7780BD4}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D39577-AEC3-48C3-B834-C1CEF0FFFA52}|Screenshare\\Screenshare.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D39577-AEC3-48C3-B834-C1CEF0FFFA52}|Screenshare\\Screenshare.csproj|solutionrelative:screenshare\\screensharelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8329F36E-1206-4060-A0BD-B0B448DE7F6A}|Networking\\Networking.csproj|c:\\users\\soory\\documents\\iitpkd\\semester 7\\swe\\oopprinciplesdemo\\oopprinciplesdemo.v2\\networking\\gui-app\\.net\\wpfobserverdemo\\networking\\communicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 16,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModel",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModel.csproj",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "ViewModel\\ViewModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T05:06:44.015Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -82,90 +99,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Communicator.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Communicator.cs",
-              "RelativeDocumentMoniker": "Networking\\Communicator.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Communicator.cs",
-              "RelativeToolTip": "Networking\\Communicator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T20:01:29.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Listener.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Listener.cs",
-              "RelativeDocumentMoniker": "Networking\\Listener.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Listener.cs",
-              "RelativeToolTip": "Networking\\Listener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T20:01:21.549Z",
+              "Title": "ViewModel",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModel.csproj",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "ViewModel\\ViewModel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T05:27:50.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScreenshareListener.cs",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Screenshare\\ScreenshareListener.cs",
-              "RelativeDocumentMoniker": "Screenshare\\ScreenshareListener.cs",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Screenshare\\ScreenshareListener.cs",
-              "RelativeToolTip": "Screenshare\\ScreenshareListener.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T19:53:14.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfObserverDemo\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml*",
-              "RelativeToolTip": "WpfObserverDemo\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-25T19:52:01.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ChatListener.cs",
               "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Chat\\ChatListener.cs",
               "RelativeDocumentMoniker": "Chat\\ChatListener.cs",
               "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Chat\\ChatListener.cs",
               "RelativeToolTip": "Chat\\ChatListener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T19:37:00.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Communicator.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Communicator.cs",
+              "RelativeDocumentMoniker": "Networking\\Communicator.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Networking\\Communicator.cs",
+              "RelativeToolTip": "Networking\\Communicator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:01:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScreenshareListener.cs",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Screenshare\\ScreenshareListener.cs",
+              "RelativeDocumentMoniker": "Screenshare\\ScreenshareListener.cs",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\Screenshare\\ScreenshareListener.cs",
+              "RelativeToolTip": "Screenshare\\ScreenshareListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:53:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfObserverDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml",
+              "RelativeToolTip": "WpfObserverDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T19:52:01.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\ViewModel\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T19:36:49.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfObserverDemo\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\soory\\Documents\\IITPkd\\Semester 7\\SWE\\OopPrinciplesDemo\\OopPrinciplesDemo.v2\\Networking\\gui-app\\.NET\\WpfObserverDemo\\WpfObserverDemo\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfObserverDemo\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA1wA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T19:36:14.804Z",
               "EditorCaption": ""
